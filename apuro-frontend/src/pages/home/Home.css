@@ -1,0 +1,60 @@
+.caixa1 {
+    background-color: #f5f9fc !important;
+    height: 200%;
+    padding-bottom: 30px;
+}
+
+.texto {
+    color: black;
+}
+
+.botao {
+    border-color: #F2D399 !important;
+    background-color: #A60303 !important;
+    color: white !important;
+    margin-left: 10px !important;
+    margin-bottom: 10px !important;
+    margin-right: 10px !important;
+}
+
+.produtos {
+    background-image: url(https://img.olhardigital.com.br/wp-content/uploads/2021/11/One-Piece-Sem-Borda.jpg);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 20vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.titulos {
+    color: black !important;
+    font-weight: bold !important;
+    font-size: 100px !important;
+    text-align: center;
+}
+
+.caixabotao {
+    background-color: black !important;
+    color: white !important;
+    margin-left: 10px !important;
+    margin-bottom: 10px !important;
+    margin-right: 10px !important;
+}
+
+.cards {
+    display: flex;
+    background-color: #BFA584;
+    color: white;
+    border: 50px !important;
+    border-color: black !important;
+    height: 300px;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 16px
+}
+
+.text-decoration-none {
+    text-decoration: none;
+    color: inherit;
+}

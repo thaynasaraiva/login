@@ -1,0 +1,27 @@
+.box1 {
+    background-color: #565902;
+    height: 120px;
+}
+
+.icones {
+    font-size: 60px !important;
+    color: white;
+}
+
+.icones:hover {
+    background-color: #565902 !important;
+    color: white;
+}
+
+.box2 {
+    background-image: linear-gradient(#565902, #BFA584);
+    height: 40px;
+}
+
+.textos {
+    color: white;
+}
+
+.textos-rodape {
+    color: white;
+}
